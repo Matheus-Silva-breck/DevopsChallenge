@@ -69,6 +69,9 @@ Tratamentos
 
 ### Link do Vídeo: https://www.youtube.com/watch?v=1LRfoJNFMBQ
 
+video devops: https://youtu.be/iMoH6Vj3kVA
+
+
 ## Documentação da API
 
 ### Endpoints de Usuários
